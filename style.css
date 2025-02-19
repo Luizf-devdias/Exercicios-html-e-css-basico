@@ -1,0 +1,20 @@
+p {
+    margin-left: 40px;
+}
+ .centralizar
+  {text-align: center;}
+
+span {font-weight: bold;}
+
+.paragrafo-padrao{
+  background-color: #F5F5F5 ;
+}
+
+.paragrafo-destacado{
+    background-color: #f0cce2;
+}
+
+.paragrafo-destacado, .paragrafo-padrao {
+    margin: 40px;
+    padding: 20px;
+}
